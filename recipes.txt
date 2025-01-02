@@ -1,0 +1,86 @@
+Name                     Ingredients                                  Secret    
+Almond Caramel           Almond + Butter + Honey                      Salt      
+Almond Cookie            Flour + Egg + Milk + Almond                  Cinnamon  
+Aloe Yogurt              Aloe + Yogurt                                Sugar     
+Apple Ice Cream          Ice + Milk + Apple                           Cinnamon  
+Apple Pie                Flour + Apple                                Cinnamon  
+Apricot Cake             Flour + Apricot                              Cinnamon  
+Baklava                  Flour + Walnut + Almond + Honey              Sugar     
+Banana Ice Cream         Ice + Milk + Banana                          Cinnamon  
+Bavarois                 Egg + Milk + Soybeans + Jam                  Sugar     
+Blueberry Ice Cream      Ice + Milk + Blueberry                       Sugar     
+Blueberry Pie            Flour + Blueberry                            Sugar     
+Brioche                  Flour + Egg + Milk                           Cinnamon  
+Brown Butter Ice Cream   Ice + Milk + Butter                          Salt      
+Candied Sweet Potato     Flour + Sweet Potato                         Cinnamon  
+Cannolo                  Flour + Egg + Milk + Orange + Cacao          Cinnamon  
+Cheesecake               Flour + Cheese                               Salt      
+Cherry Ice Cream         Ice + Milk + Cherry                          Sugar     
+Cherry Pie               Flour + Cherry                               Cinnamon  
+Chiffon Cake             Flour + Milk + Egg + Fruit                   Sugar     
+Chocolate Cake           Flour + Cacao                                Salt      
+Chocolate Cookie         Flour + Egg + Milk + Cacao                   Sugar     
+Chocolate Fondue         Flour + Strawberry + Cocoa Pack + Milk       Sugar     
+Chocolate Ice Cream      Ice + Milk + Cacao                           Salt      
+Chocolate Pudding        Egg + Milk + Cacao                           Sugar     
+Chocolate Truffles       Cocoa Pack + Milk                            Salt      
+Clafoutis                Flour + Sweet Potato + Egg + Milk            Sugar     
+Corn Muffin              Flour + Corn                                 Salt      
+Cream Puff               Flour + Egg + Milk + Butter                  Salt      
+Crepe                    Flour + Milk + Fruit                         Cinnamon  
+Egg Ice Cream            Ice + Milk + Egg                             Cinnamon  
+Fish Ice Cream           Ice + Milk + Fish                            Soy       
+Fish Pie                 Flour + Fish                                 Soy       
+Frozen Yogurt            Ice + Milk + Yogurt                          Sugar     
+Fruit Gratin             Flour + Fruit + Egg + Herb                   Sugar     
+Fruit Punch              Watermelon + Peach + Banana + Kiwi + Mango   Sugar     
+Grape Cake               Flour + Grape                                Sugar     
+Grape Ice Cream          Ice + Milk + Grape                           Sugar     
+Herb Ice Cream           Ice + Milk + Herb                            Cinnamon  
+Herb Pie                 Flour + Herb                                 Salt      
+Hushpuppies              Flour + Egg + Milk                           Sugar     
+Ice Cream Crepe          Flour + Ice + Milk + Egg                     Cinnamon  
+Jelly Roll               Flour + Milk + Egg                           Salt      
+Kiwi Sherbet             Ice + Milk + Kiwi                            Sugar     
+Lemon Cake               Flour + Lemon                                Cinnamon  
+Lemon Sherbet            Ice + Milk + Lemon                           Sugar     
+Lemon Tart               Flour + Lemon                                Sugar     
+Macaron                  Flour + Jam + Egg + Butter                   Sugar     
+Madeleine                Flour + Butter                               Cinnamon  
+Malasada                 Flour + Milk + Honey + Oil                   Cinnamon  
+Mango Cake               Flour + Mango                                Salt      
+Mango Ice Cream          Ice + Milk + Mango                           Sugar     
+Melon Cake               Flour + Melon                                Sugar     
+Melon Ice Cream          Ice + Milk + Melon                           Sugar     
+Mille-feuille            Flour + Strawberry + Kiwi +Egg + Milk        Cinnamon  
+Monaka Ice Cream         Ice + Milk + Egg + Flour                     Cinnamon  
+Mont Blanc               Flour + Egg + Chestnut                       Cinnamon  
+Muscat Cake              Flour + Muscat                               Sugar     
+Muscat Tart              Flour + Muscat                               Sugar     
+Mushroom Ice Cream       Ice + Milk + Mushroom                        Soy       
+Mushroom Pie             Flour + Mushroom                             Pepper    
+Orange Ice Cream         Ice + Milk + Orange                          Cinnamon  
+Orange Pie               Flour + Orange                               Sugar     
+Pancakes                 Flour + Egg + Milk + Honey                   Cinnamon  
+Peach Pie                Flour + Peach                                Sugar     
+Peach Sherbet            Ice + Milk + Peach                           Cinnamon  
+Pineapple Cake           Flour + Pineapple                            Sugar     
+Pineapple Ice Cream      Ice + Milk + Pineapple                       Sugar     
+Pudding a la mode        Egg + Milk + Cherry + Kiwi + Banana          Cinnamon  
+Pudding                  Egg + Milk                                   Sugar     
+Pumpkin Ice Cream        Ice + Milk + Pumpkin                         Sugar     
+Pumpkin Pie              Flour + Pumpkin                              Salt      
+Pumpkin Pudding          Egg + Milk + Pumpkin                         Salt      
+Rice Milk Ice Cream      Ice + Milk + Rice                            Miso      
+Shortcake                Flour + Strawberry + Egg + Milk              Sugar     
+Soft Serve Ice Cream     Ice + Milk                                   Sugar     
+Soy Milk Cake            Flour + Egg + Milk + Soybeans                Salt      
+Soy Milk Cookie          Flour + Egg + Milk + Soybeans                Salt      
+Soy Milk Ice Cream       Ice + Milk + Soybeans                        Sugar     
+Soy Milk Pudding         Egg + Milk + Soybeans                        Salt      
+Strawberry-ice-cream     Ice + Milk + Strawberry                      Sugar     
+Sweet Potato Ice Cream   Ice + Milk + Sweet Potato                    Salt      
+Vegetable Cake           Flour + Vegetable + Egg + Milk               Sugar     
+Watermelon Sherbet       Ice + Milk + Watermelon                      Salt      
+Watermelon Tart          Flour + Watermelon                           Salt      
+Yogurt Pie               Flour + Yogurt                               Cinnamon  
